@@ -103,7 +103,7 @@
 100,102,79,M,FALSE,This study shows electrodiagnostic evidence for mild right median neuropathy in the carpal tunnel
 101,103,73,F,TRUE,This study is normal
 101,104,75,F,FALSE,This study shows electrodiagnostic evidence for mild right median neuropathy in the carpal tunnel
-102,105,82,M,FALSE,This study shows electrodiagnostic evidence forsSensory neuropathy
+102,105,82,M,FALSE,This study shows electrodiagnostic evidence for sensory neuropathy
 103,106,80,F,FALSE,This study shows electrodiagnostic evidence for mild right median neuropathy in the carpal tunnel
 104,107,72,M,TRUE,This study is normal
 104,108,74,M,FALSE,This study shows electrodiagnostic evidence for in-active chronic left L3-L4 radiculopathy
@@ -122,14 +122,14 @@
 117,121,74,M,FALSE,This study shows evidence for mild sensory axonal polyneuropathy
 118,122,75,M,FALSE,This study shows electrodiagnostic evidence for myasthenia gravis
 119,123,76,F,FALSE,This study shows electrodiagnostic evidence for myasthenia gravis
-119,124,79,F,FALSE,This study shows electrodiagnostic evidence forsSensory neuropathy
+119,124,79,F,FALSE,This study shows electrodiagnostic evidence for sensory neuropathy
 120,125,80,F,FALSE,This study shows electrodiagnostic evidence for in-active chronic left L3-L4 radiculopathy
 121,126,75,M,FALSE,This study shows electrodiagnostic evidence for in-active chronic left L3-L4 radiculopathy
 122,127,82,M,TRUE,This study is normal
 124,128,80,M,FALSE,This study shows electrodiagnostic evidence for right median neuropathy localized to the carpal tunnel
 125,129,74,F,TRUE,This study is normal
 126,130,71,M,TRUE,This study is normal
-126,131,71,M,FALSE,This study shows electrodiagnostic evidence forsSensory neuropathy
+126,131,71,M,FALSE,This study shows electrodiagnostic evidence for sensory neuropathy
 126,132,71,M,FALSE,This study didn't show phrenic nerve responses can be due to severe myopathy or phrenic neuropathy
 126,133,72,M,FALSE,This study shows electrodiagnostic evidence for right median neuropathy localized to the carpal tunnel
 127,134,88,M,FALSE,This study shows electrodiagnostic evidence for right median neuropathy localized to the carpal tunnel
@@ -164,8 +164,8 @@
 156,163,75,F,FALSE,This study shows electrodiagnostic evidence for ulnar neuropathy at the elbow
 156,164,75,F,FALSE,This study shows electrodiagnostic evidence for mild chronic lumbar radiculopathy L4-5
 157,165,80,M,FALSE,This study shows electrodiagnostic evidence for ulnar neuropathy at the elbow
-158,166,83,M,FALSE,This study shows electrodiagnostic evidence forsSensory neuropathy
-159,167,75,F,FALSE,This study shows electrodiagnostic evidence forsSensory neuropathy
+158,166,83,M,FALSE,This study shows electrodiagnostic evidence for sensory neuropathy
+159,167,75,F,FALSE,This study shows electrodiagnostic evidence for sensory neuropathy
 160,168,74,M,FALSE,This study shows electrodiagnostic evidence for mild chronic lumbar radiculopathy L4-5
 161,169,84,F,FALSE,This study shows electrodiagnostic evidence for mild chronic lumbar radiculopathy L4-5
 162,170,73,M,FALSE,This study shows electrodiagnostic evidence for mild chronic lumbar radiculopathy L4-5
@@ -177,8 +177,8 @@
 168,176,71,M,FALSE,This study shows electrodiagnostic evidence for mild chronic lumbar radicuilopathy L5
 169,177,77,M,FALSE,This study shows electrodiagnostic evidence for ulnar neuropathy at the elbow
 170,178,77,M,FALSE,This study shows electrodiagnostic evidence for ulnar neuropathy at the elbow
-171,179,74,M,FALSE,This study shows electrodiagnostic evidence forsSensory neuropathy
-172,180,79,M,FALSE,This study shows electrodiagnostic evidence forsSensory neuropathy
+171,179,74,M,FALSE,This study shows electrodiagnostic evidence for sensory neuropathy
+172,180,79,M,FALSE,This study shows electrodiagnostic evidence for sensory neuropathy
 173,181,82,F,FALSE,This study shows electrodiagnostic evidence for mild chronic lumbar radicuilopathy L5
 174,182,83,F,FALSE,This study shows electrodiagnostic evidence for a mild chronic right S1-2 radiculopathy
 175,183,72,F,FALSE,This study shows electrodiagnostic evidence for active right L5-S1 radiculopathy
@@ -218,3 +218,27 @@
 208,217,71,F,FALSE,This study shows electrodiagnostic evidence for multiple entrapment neuropathies
 209,218,70,F,FALSE,This study shows electrodiagnostic evidence for multiple entrapment neuropathies
 210,219,56,F,FALSE,This study shows electrodiagnostic evidence for multiple entrapment neuropathies
+211,220,69,M,FALSE,This study shows electrodiagnostic evidence for irritable myopathy
+212,221,73,M,FALSE,This study shows electrodiagnostic evidence for irritable myopathy
+213,222,80,M,FALSE,This study shows electrodiagnostic evidence for irritable myopathy
+214,223,67,F,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy
+215,224,77,F,FALSE,This study shows electrodiagnostic evidence for irritable myopathy and carpal tunnel
+216,225,81,M,FALSE,This study shows electrodiagnostic evidence for irritable myopathy and carpal tunnel
+217,226,79,F,FALSE,This study shows electrodiagnostic evidence for irritable myopathy
+218,227,75,M,FALSE,This study shows electrodiagnostic evidence for irritable myopathy
+219,228,69,M,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy
+220,229,73,M,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy
+221,230,80,M,FALSE,This study shows electrodiagnostic evidence for irritable myopathy
+222,231,67,F,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy
+223,232,77,F,FALSE,This study shows electrodiagnostic evidence for irritable myopathy
+224,233,81,M,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy and carpal tunnel
+225,234,79,F,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy and carpal tunnel
+226,235,75,M,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy
+227,236,79,F,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy. There is no electrodiagnostic evidence for a disease of NMJ
+228,237,75,M,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy. There is no electrodiagnostic evidence for a disease of NMJ
+229,238,69,M,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy. There is no electrodiagnostic evidence for a disease of NMJ
+230,239,73,M,FALSE,This study shows electrodiagnostic evidence for non irritable myopathy. There is no electrodiagnostic evidence for a disease of NMJ
+231,240,67,F,FALSE,This study shows electrodiagnostic evidence LDPN with active EMG changes. There is no electrodiagnostic evidence for CTS
+232,241,77,F,FALSE,This study shows electrodiagnostic evidence LDPN with active EMG changes. There is no electrodiagnostic evidence for CTS
+233,242,67,F,FALSE,There is no electrodiagnostic evidence for CTS. This study shows electrodiagnostic evidence LDPN with active EMG changes.
+234,243,77,F,FALSE,There is no electrodiagnostic evidence for CTS. This study shows electrodiagnostic evidence LDPN with active EMG changes. 
