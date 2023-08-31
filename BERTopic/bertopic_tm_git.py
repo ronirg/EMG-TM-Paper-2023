@@ -11,7 +11,7 @@ from datetime import datetime
 from bertopic import BERTopic
 from umap import UMAP
 from hdbscan import HDBSCAN
-from sklearn.feature_extraction.text import CountVectorizer
+#from sklearn.feature_extraction.text import CountVectorizer
 current_datetime = datetime.now()
 # Format the date and time as a string
 formatted_datetime = current_datetime.strftime("%Y-%m-%d_%H-%M-%S")
